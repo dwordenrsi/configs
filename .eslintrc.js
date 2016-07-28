@@ -1,5 +1,14 @@
 module.exports = {
   root: true,
+  'ecmaVersion': 6,
+  'environment': {
+    'es6': true,
+    'node': true,
+    'browser': true
+  },
+  'ecmaFeatures': {
+    'arrowFunctions': true
+  },
   parser: 'babel-eslint',
   parserOptions: {
     sourceType: 'module'
