@@ -17,8 +17,6 @@ module.exports = {
     'html', 'json'
   ],
   'rules': {
-    // allow debugger during development
-    'no-debugger': process.env.NODE_ENV === 'production' ? 2 : 0,
     // General
     'no-cond-assign': 2,
     'no-constant-condition': 2,
