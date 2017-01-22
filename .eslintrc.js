@@ -118,7 +118,7 @@ module.exports = {
     'eol-last': 2,
     'func-names': 0,
     'func-style': [2, 'declaration', { 'allowArrowFunctions': true }],
-    'indent': [2, 2],
+    'indent': [2, , {SwitchCase: 1}],
     'key-spacing': [2, { 'beforeColon': false, 'afterColon': true, 'mode': 'strict' }],
     'keyword-spacing': [2, { 'before': true }],
     'linebreak-style': [2, 'unix'],
