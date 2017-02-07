@@ -1,5 +1,5 @@
 {
-  "formatting": {
+  "formattingOptions": {
     "NewLine": "\n",
     "UseTabs": false,
     "TabSize": 2,
