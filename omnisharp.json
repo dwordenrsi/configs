@@ -1,3 +1,4 @@
+// Source: https://github.com/OmniSharp/omnisharp-roslyn/blob/dev/src/OmniSharp.Abstractions/Options/FormattingOptions.cs
 {
   "formattingOptions": {
     "NewLine": "\n",
