@@ -1,0 +1,22 @@
+{
+  "name": "configs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/codedescent/configs.git"
+  },
+  "author": "Don Worden <donworden@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codedescent/configs/issues"
+  },
+  "homepage": "https://github.com/codedescent/configs#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}
