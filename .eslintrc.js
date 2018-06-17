@@ -13,7 +13,7 @@ module.exports = {
   'parserOptions': {
     'sourceType': 'module'
   },
-  'plugins': ['html', 'json'],
+  'plugins': ['html', 'json', 'babel'],
   'rules': {
     // General
     'no-cond-assign': 2,
